@@ -1,29 +1,29 @@
-#Mile to KM Converter
+# Mile to KM Converter
 
-##Overview
+## Overview
 
 This is a Python-based application that provides a simple and user-friendly interface for converting distances between miles and kilometers. It uses the Tkinter library to create the GUI.
 
-###Features
+### Features
 
 - Conversion between Miles and Kilometers: Easily convert distances from miles to kilometers and vice versa.  
 - User-Friendly Interface: A clear and straightforward interface with labeled input and output fields.  
 - Unit Switching: Quickly switch between input units (miles or kilometers) with a single click.  
 
-###Installation
+### Installation
 
 To run this application, you will need Python installed on your computer.  
 If you do not have Python installed, you can download it from python.org.
 
-###Usage
+### Usage
 
-Clone or download the project to your local machine.  
-Run the distanceconv.py script to start the application.  
-Enter the distance value in the provided input field.  
-Choose the desired input unit (miles or kilometers) using the 'Switch' button.  
-Click on 'Calculate' to view the converted distance.  
+1) Clone or download the project to your local machine.  
+2) Run the distanceconv.py script to start the application.  
+3) Enter the distance value in the provided input field.  
+4) Choose the desired input unit (miles or kilometers) using the 'Switch' button.  
+5) Click on 'Calculate' to view the converted distance.  
 
-###Requirements
+### Requirements
 
 - Python 3.x
 - Tkinter (usually comes pre-installed with Python)
